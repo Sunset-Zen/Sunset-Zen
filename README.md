@@ -7,7 +7,6 @@ ____________________________________________________________________________
 - LinkedIn : (https://www.linkedin.com/in/otis-jackson4/)
 - Instagram : (https://www.instagram.com/o.j.daprince_iv/)
 - Personal Website : (https://www.orjacksoniv.com/)
-- School Email : (ojacks7@lsu.edu)
 - Personal Email : (spiritedhokage@gmail.com)
 
 ____________________________________________________________________________
