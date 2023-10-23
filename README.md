@@ -1,6 +1,6 @@
 - Welcome, I’m @Sunset-Zen aka Otis Jackson IV
 - I’m interested in ... / Web Devlopment / Front-End Development / UI & UX Design 
-- My software language skill set consists of Python, Java, Jest, JavaScript, HTML, CSS, React.js, MySQL, & Material UI.
+- My software language skill set consists of Python, Java, JavaScript, HTML, CSS, React.js, MySQL, & Material UI.
 - I’m always open to collaborate with other devs on a presentable set of Front-End & CRUD projects.
 ____________________________________________________________________________
 - LinkedIn : (https://www.linkedin.com/in/otis-jackson4/)
